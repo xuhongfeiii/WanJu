@@ -1,7 +1,7 @@
 {
   "versionCode": 5,
-  "versionName": "1.0.4",
-  "downloadUrl": "https://github.com/xuhongfeiii/WanJu/releases/download/v1.0.4/app-release.apk",
-  "changelog": "1. 修复浏览历史不显示\n2. 新增OTA更新功能\n3. 新增壁纸和工具网站\n4. 深浅色切换交叉淡入淡出动画",
+  "versionName": "1.0.5",
+  "downloadUrl": "https://github.com/xuhongfeiii/WanJu/releases/download/v1.0.5/app-release.apk",
+  "changelog": "1. 新增OTA应用内更新功能\n2. 新增壁纸网站7个、工具网站10个、生活网站4个\n3. 修复收藏和最近浏览不同步\n4. 深浅色切换改为交叉淡入淡出动画\n5. 页面状态保持（切换Tab不丢失位置）\n6. 已移除学习标签\n7. 性能优化：懒加载列表、内存缓存、预加载图\n8. 删除设置页多余的线条\n9. 字体更换为思源宋体",
   "forceUpdate": false
 }
